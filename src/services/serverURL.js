@@ -1,3 +1,3 @@
-const serverURL = "http://localhost:4000";
+const serverURL = "https://vp-server.onrender.com";
 
-export default serverURL
+export default serverURL;
